@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "root",
-    "password": "123456",
-    "database": "darby_development",
-    "host": "192.168.58.3",
+    "password": "",
+    "database": "darby_db",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
